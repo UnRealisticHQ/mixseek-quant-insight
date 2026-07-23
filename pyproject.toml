@@ -51,7 +51,7 @@ dev = [
     "types-tqdm>=4.67.0",
     "logfire>=4.15.1",
     "aiohttp>=3.13.0",
-    "jupyterlab>=4.3.5",
+    "jupyterlab>=4.5.10",
     "jupyter>=1.1.1",
     "ipykernel>=6.29.5",
     "j-quants-doc-mcp @ git+https://github.com/J-Quants/j-quants-doc-mcp.git"
